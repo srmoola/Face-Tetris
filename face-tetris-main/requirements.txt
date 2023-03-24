@@ -1,0 +1,11 @@
+certifi
+charset-normalizer
+idna
+numpy
+opencv-python
+pip
+requests
+setuptools
+urllib3
+wheel
+pygame
